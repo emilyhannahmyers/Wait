@@ -1,8 +1,0 @@
-SR001 F/R -- breeze, very slight
-SR002 F/R -- rustling plastic wrapper
-SR003 F/R -- cars in background, very slight
-SR004 F/R -- more cars, less slight
-SR005 F/R -- joggers on a gravel path
-SR006 F/R -- rocks thrown into water
-SR007 F/R -- rocks being scattered on ground
-SR008 F/R -- wind through grass, slight
